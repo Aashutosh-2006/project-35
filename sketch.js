@@ -6,8 +6,8 @@ var d1,d2;
 function preload()
 {
   //load images here
-  d1=loadImage("images/dogImg.png");
-  d2=loadImage("images/dogImg1.png");
+  d1=loadImage("dogImg.png");
+  d2=loadImage("dogImg1.png");
 }
 
 function setup() {
